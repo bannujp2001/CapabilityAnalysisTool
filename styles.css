@@ -1,0 +1,7 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+#control-chart, #outlier-identification, #cp-cpk-calculation, #result-comparison {
+    margin-top: 20px;
+}
